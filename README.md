@@ -22,7 +22,7 @@ This project demonstrates how SCC identifies misconfigurations, prioritizes clou
 ---
 
 ## 📄 Report
-📎 [Download Full Report (PDF)](docs/GSP1124_SCC_Report_MustafaDukureh.pdf)
+📎 [Download GSP1124 Security Command Center Report (PDF)](GSP1124_SCC_Report_MustafaDukureh.pdf)
 
 ---
 
